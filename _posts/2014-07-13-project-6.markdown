@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 16-03-2025
 img: submarine.png
 alt: image-alt
-project-date: April 2014
+project-date: March 2025
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I started making websites back in 3 march 2025 and have kept growing my projects. The project you see above is in the github codespaces to be able to make personal Minecraft servers and other web usages.
 ---
